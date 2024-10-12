@@ -223,6 +223,7 @@ int main() {
         int choice;
         cin >> choice;
 
+
         switch (choice) {
         case 1: {
             cout << "Enter flat index: ";
